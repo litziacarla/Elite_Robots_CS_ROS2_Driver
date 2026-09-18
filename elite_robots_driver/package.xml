@@ -27,7 +27,7 @@
   <depend>std_srvs</depend>
   <depend>elite_robots_dashboard_msgs</depend>
   <depend>elite_robots_msgs</depend>
-  <depend>elite_robots_description</depend>
+  <depend>eli_cs_robot_description</depend>
   <depend>elite_cs_series_sdk</depend>
   <depend>sensor_msgs</depend>
   <depend>control_msgs</depend>
